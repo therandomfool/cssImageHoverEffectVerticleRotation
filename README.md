@@ -8,3 +8,6 @@
 
 # CSS Pseudo Class Selectors
 - :hover
+
+
+![imageHoverEffect](imageHoverEffect.gif)
